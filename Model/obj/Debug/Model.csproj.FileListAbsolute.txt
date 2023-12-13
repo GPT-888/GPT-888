@@ -1,0 +1,25 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Model\bin\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Model\bin\Debug\Model.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Model\bin\Debug\Common.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Model\bin\Debug\Common.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Model\obj\Debug\Model.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Model\obj\Debug\Model.pdb
+G:\会员管理系统\Model\bin\Debug\Model.dll
+G:\会员管理系统\Model\bin\Debug\Model.pdb
+G:\会员管理系统\Model\bin\Debug\Common.dll
+G:\会员管理系统\Model\bin\Debug\Common.pdb
+G:\会员管理系统\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+G:\会员管理系统\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\会员管理系统\Model\obj\Debug\Model.csproj.CopyComplete
+G:\会员管理系统\Model\obj\Debug\Model.dll
+G:\会员管理系统\Model\obj\Debug\Model.pdb

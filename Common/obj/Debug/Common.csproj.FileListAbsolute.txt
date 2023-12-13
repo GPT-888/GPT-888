@@ -1,0 +1,16 @@
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Common\bin\Debug\Common.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Common\bin\Debug\Common.pdb
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Common\obj\Debug\Common.dll
+D:\用户目录\我的文档\Visual Studio 2013\Projects\vipProject\Common\obj\Debug\Common.pdb
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Common\bin\Debug\Common.dll
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Common\bin\Debug\Common.pdb
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Common\obj\Debug\Common.dll
+C:\Users\Administrator\Desktop\asp.net+三层+会员管理系统源码vipProject\vipProject\Common\obj\Debug\Common.pdb
+G:\会员管理系统\Common\bin\Debug\Common.dll
+G:\会员管理系统\Common\bin\Debug\Common.pdb
+G:\会员管理系统\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+G:\会员管理系统\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+G:\会员管理系统\Common\obj\Debug\Common.dll
+G:\会员管理系统\Common\obj\Debug\Common.pdb
