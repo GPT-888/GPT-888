@@ -11,8 +11,8 @@ MCN：四川创峄信息科技有限公司
 旗下网站有https://kejiyuzhe.chgskj.cn/ 和 https://kyst.null.fit/
 
 **********旗下项目**********
-96110   https://kyst.luetg.fun/96110/
-90款游戏   https://kyst.luetg.fun/game/
-数据看板演示    https://kyst.luetg.fun/dashboards/
+96110   https://kyst.null.fit/96110/
+90款游戏  https://kyst.null.fit/game/
+数据看板演示    https://kyst.null.fit/dashboards/
 
 更多的就不展示了！
