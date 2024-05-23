@@ -8,7 +8,7 @@ MCN：四川创峄信息科技有限公司
              CSDN（https://blog.csdn.net/2302_81075415?spm=1000.2115.3001.5343）
              抖音（https://www.douyin.com/user/MS4wLjABAAAALubM7FDQUdxuoyirKerFkZ3OivcQFbJC0Yfa3mDYSco-fvaFO0kax9l9ixPtRfyH?vid=7367750079307861299）
              
-旗下网站有https://kejiyuzhe.chgskj.cn/ 和 https://kyst.null.fit/
+旗下网站有https://kejiyuzhe.chgskj.cn/ 和 https://gpt-888.github.io/
 
 **********旗下项目**********
 96110   https://kyst.null.fit/96110/
